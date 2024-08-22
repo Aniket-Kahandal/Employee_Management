@@ -1,0 +1,132 @@
+{
+  "employee": [
+    {
+      "id": "2",
+      "name": "MS Dhoni",
+      "mobile": 8962341555,
+      "designation": "REACT JS",
+      "salary": "31999",
+      "lastCompanyName": "WOW",
+      "skill": [
+        "DotNet",
+        "UI",
+        "Reactjs"
+      ],
+      "gender": "Male",
+      "status": "active",
+      "address": "Bhopal MP",
+      "state": "MP",
+      "city": "Bhopal",
+      "taluka": "Bhopal 2",
+      "stateid": "4",
+      "cityid": " 8",
+      "talukaid": " 31",
+      "workingArea": [
+        30
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Rahul Dravid",
+      "mobile": 9987456320,
+      "designation": "UI/UX",
+      "salary": "23000",
+      "lastCompanyName": "",
+      "skill": [
+        "Reactjs",
+        "DotNet"
+      ],
+      "gender": "Male",
+      "status": "active",
+      "address": "UP",
+      "state": "UP",
+      "city": "Ayodhya",
+      "taluka": "Ayodhya 1",
+      "stateid": "5",
+      "cityid": " 6",
+      "talukaid": " 29",
+      "workingArea": [
+        29
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Aniket Kahandal",
+      "mobile": 9623576236,
+      "designation": "UI/UX",
+      "salary": "31999",
+      "lastCompanyName": "ZS",
+      "skill": [
+        "Reactjs",
+        "UI"
+      ],
+      "gender": "Other",
+      "status": "active",
+      "address": "Ahemadabad Gujrat",
+      "state": "Gujrat",
+      "city": "Surat",
+      "taluka": "Gyara",
+      "stateid": "2",
+      "cityid": " 10",
+      "talukaid": " 12",
+      "workingArea": [
+        11
+      ],
+      "disignation": "UI/UX",
+      "Gender": "Other",
+      "Address": "Ahemadabad Gujrat"
+    },
+    {
+      "id": "5",
+      "name": "Katrina Kaif",
+      "mobile": "7412589630",
+      "designation": "REACT JS",
+      "salary": "12400",
+      "lastComp": "",
+      "gender": "Female",
+      "address": "Delhi",
+      "state": "Delhi",
+      "city": "Gurgaon",
+      "taluka": "Gurgaon 1",
+      "status": "active",
+      "stateid": "3",
+      "cityid": "14",
+      "talukaid": " 24",
+      "skill": [
+        "Reactjs",
+        "DotNet"
+      ],
+      "workingArea": [
+        24,
+        33
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Rohit Sharma",
+      "mobile": "9623576223",
+      "designation": "UI/UX",
+      "salary": "85199",
+      "lastComp": "",
+      "gender": "Male",
+      "address": "Jaipur",
+      "state": "Gujrat",
+      "city": "Surat",
+      "taluka": "Mahuva",
+      "skill": [
+        "Reactjs",
+        "DotNet"
+      ],
+      "workingArea": [
+        12
+      ],
+      "stateid": "2",
+      "cityid": " 10",
+      "talukaid": " 11",
+      "status": "active",
+      "disignation": "UI/UX",
+      "Gender": "Male",
+      "Address": "Jaipur"
+    }
+  ]
+}

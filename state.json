@@ -1,0 +1,36 @@
+{
+  "state": [
+    {
+      "id": "1",
+      "name": "Maharashtra"
+    },
+    {
+      "id": "2",
+      "name": "Gujrat"
+    },
+    {
+      "id": "3",
+      "name": "Delhi"
+    },
+    {
+      "id": "4",
+      "name": "MP"
+    },
+    {
+      "id": "5",
+      "name": "UP"
+    },
+    {
+      "id": "6",
+      "name": "Rajsthan"
+    },
+    {
+      "id": "7",
+      "name": "Punjab"
+    },
+    {
+      "id": "8",
+      "name": "Bihar"
+    }
+  ]
+}

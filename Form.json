@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Aniket",
+      "email": "aniket@gmail.com",
+      "password": "Aniket@123"
+    },
+    {
+      "id": "2",
+      "name": "RohitSharma",
+      "password": "Rohit@123",
+      "email": "admin123@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "SachinTendulakar",
+      "password": "Sachin@123",
+      "email": "aniket@weee.com"
+    },
+    {
+      "id": "4",
+      "name": "Saaaaaaddddd ddddd",
+      "password": "aaaaaaaaaaa@A1",
+      "email": "abc@a.com"
+    },
+    {
+      "id": "5",
+      "name": "dddd eee",
+      "password": "sdseeweeew@123A",
+      "email": "sdsdd@ac.c"
+    }
+  ]
+}

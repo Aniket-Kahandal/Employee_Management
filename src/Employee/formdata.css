@@ -1,0 +1,10 @@
+.div1{
+    border: 1px solid black;
+    box-shadow: 5px 5px grey;
+    width: 80%;
+    margin:100px;
+    padding: 3em;
+}
+.errormsg{
+    color: red;
+}

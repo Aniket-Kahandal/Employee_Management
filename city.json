@@ -1,0 +1,141 @@
+{
+  "city": [
+    {
+      "id": "1",
+      "name": "Nashik",
+      "state": "Maharashtra",
+      "stateid": 1
+    },
+    {
+      "id": " 2",
+      "name": "Pune",
+      "state": "Maharashtra",
+      "stateid": 1
+    },
+    {
+      "id": " 3",
+      "name": "Ujjain",
+      "state": "MP",
+      "stateid": 4
+    },
+    {
+      "id": " 4",
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "stateid": 1
+    },
+    {
+      "id": " 5",
+      "name": "Satara",
+      "state": "Maharashtra",
+      "stateid": 1
+    },
+    {
+      "id": " 6",
+      "name": "Ayodhya",
+      "state": "UP",
+      "stateid": 5
+    },
+    {
+      "id": " 7",
+      "name": "Varanasi",
+      "state": "UP",
+      "stateid": 5
+    },
+    {
+      "id": " 8",
+      "name": "Bhopal",
+      "state": "MP",
+      "stateid": 4
+    },
+    {
+      "id": " 9",
+      "name": "Indore",
+      "state": "MP",
+      "stateid": 4
+    },
+    {
+      "id": " 10",
+      "name": "Surat",
+      "state": "Gujrat",
+      "stateid": 2
+    },
+    {
+      "id": "11",
+      "name": "Ahemadabad",
+      "state": "Gujrat",
+      "stateid": 2
+    },
+    {
+      "id": "12",
+      "name": "Jaipur",
+      "state": "Rajsthan",
+      "stateid": 6
+    },
+    {
+      "id": "13",
+      "name": "Delhi NCR",
+      "state": "Delhi",
+      "stateid": 3
+    },
+    {
+      "id": "14",
+      "name": "Gurgaon",
+      "state": "Delhi",
+      "stateid": 3
+    },
+    {
+      "id": "15",
+      "name": "Gaziabad",
+      "state": "Delhi",
+      "stateid": 3
+    },
+    {
+      "id": "16",
+      "name": "Mumbai 2",
+      "state": "Maharashtra",
+      "stateid": 1
+    },
+    {
+      "id": "17",
+      "name": "m 2",
+      "state": "Maharashtra",
+      "stateid": 1
+    },
+    {
+      "id": "18",
+      "name": "Jamnagar",
+      "state": "Gujrat",
+      "stateid": 2
+    },
+    {
+      "id": "19",
+      "name": "Bikaner",
+      "state": "Rajsthan",
+      "stateid": 6
+    },
+    {
+      "id": "20",
+      "name": "Jaisalmer",
+      "state": "Rajsthan",
+      "stateid": 6
+    },
+    {
+      "id": "21",
+      "name": "Amritsar",
+      "state": "Punjab",
+      "stateid": 7
+    },
+    {
+      "id": "22",
+      "name": "Patana",
+      "state": "Punjab",
+      "stateid": 7
+    },
+    {
+      "id": "23",
+      "name": "Kashi",
+      "stateid": 5
+    }
+  ]
+}

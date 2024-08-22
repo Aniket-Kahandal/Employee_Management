@@ -1,0 +1,280 @@
+{
+  "taluka": [
+    {
+      "id": "1",
+      "name": "Nashik",
+      "City": "Nashik",
+      "cityid": 1
+    },
+    {
+      "id": " 2",
+      "name": "Mahakal",
+      "City": "Ujjain",
+      "cityid": 3
+    },
+    {
+      "id": " 3",
+      "name": "NashikRoad",
+      "City": "Nashik",
+      "cityid": 1
+    },
+    {
+      "id": " 4",
+      "name": "Vani",
+      "City": "Nashik",
+      "cityid": 1
+    },
+    {
+      "id": " 5",
+      "name": "Pimpalgaon",
+      "City": "Nashik",
+      "cityid": 1
+    },
+    {
+      "id": " 6",
+      "name": "Shivajinagar",
+      "City": "Pune",
+      "cityid": 2
+    },
+    {
+      "id": " 7",
+      "name": "Wakad",
+      "City": "Pune",
+      "cityid": 2
+    },
+    {
+      "id": " 8",
+      "name": "Hinjewadi",
+      "City": "Pune",
+      "cityid": 2
+    },
+    {
+      "id": " 9",
+      "name": "Ahemadabad 1",
+      "City": "Ahemadabad",
+      "cityid": 11
+    },
+    {
+      "id": " 10",
+      "name": "Ahemadabda 2",
+      "City": "Ahemadabad",
+      "cityid": 11
+    },
+    {
+      "id": " 11",
+      "name": "Mahuva",
+      "City": "Surat",
+      "cityid": 10
+    },
+    {
+      "id": " 12",
+      "name": "Gyara",
+      "City": "Surat",
+      "cityid": 10
+    },
+    {
+      "id": " 13",
+      "name": "J1",
+      "City": "Jaipur",
+      "cityid": 12
+    },
+    {
+      "id": " 14",
+      "name": "j2",
+      "City": "Jaipur",
+      "cityid": 12
+    },
+    {
+      "id": " 15",
+      "name": "Delhi 1",
+      "City": "Delhi NCR",
+      "cityid": 13
+    },
+    {
+      "id": " 16",
+      "name": "Delhi 2",
+      "City": "Delhi NCR",
+      "cityid": 13
+    },
+    {
+      "id": " 17",
+      "name": "Gaziabad 1",
+      "City": "Gaziabad",
+      "cityid": 15
+    },
+    {
+      "id": " 18",
+      "name": "Thane",
+      "City": "Mumbai",
+      "cityid": 4
+    },
+    {
+      "id": " 19",
+      "name": "Mumbai Tal 1",
+      "City": "Mumbai 2",
+      "cityid": 16
+    },
+    {
+      "id": " 20",
+      "name": "TAL 2",
+      "City": "Mumbai 2",
+      "cityid": 16
+    },
+    {
+      "id": " 21",
+      "name": "WE",
+      "City": "m 2",
+      "cityid": 17
+    },
+    {
+      "id": " 22",
+      "name": "Jamjodhpur",
+      "City": "Jamnagar",
+      "cityid": 18
+    },
+    {
+      "id": " 23",
+      "name": "Jamnagar",
+      "City": "Jamnagar",
+      "cityid": 18
+    },
+    {
+      "id": " 24",
+      "name": "Gurgaon 1",
+      "City": "Gurgaon",
+      "cityid": 14
+    },
+    {
+      "id": " 25",
+      "name": "varanasi 1",
+      "City": "Varanasi",
+      "cityid": 7
+    },
+    {
+      "id": " 26",
+      "name": "varanasi 2",
+      "City": "Varanasi",
+      "cityid": 7
+    },
+    {
+      "id": " 27",
+      "name": "Mahabaleshwar",
+      "City": "Satara",
+      "cityid": 5
+    },
+    {
+      "id": " 28",
+      "name": "Karad",
+      "City": "Satara",
+      "cityid": 5
+    },
+    {
+      "id": " 29",
+      "name": "Ayodhya 1",
+      "City": "Ayodhya",
+      "cityid": 6
+    },
+    {
+      "id": " 30",
+      "name": "Bhopal 1",
+      "City": "Bhopal",
+      "cityid": 8
+    },
+    {
+      "id": " 31",
+      "name": "Bhopal 2",
+      "City": "Bhopal",
+      "cityid": 8
+    },
+    {
+      "id": " 32",
+      "name": "Bandra",
+      "City": "Mumbai",
+      "cityid": 4
+    },
+    {
+      "id": " 33",
+      "name": "Gurgaon 2",
+      "City": "Gurgaon",
+      "cityid": 14
+    },
+    {
+      "id": " 34",
+      "name": "Patana 1",
+      "City": "Patana",
+      "cityid": 22
+    },
+    {
+      "id": " 35",
+      "name": "Ayodhya 2",
+      "City": "Ayodhya",
+      "cityid": 6
+    },
+    {
+      "id": " 36",
+      "name": "CSMT",
+      "City": "Mumbai",
+      "cityid": 4
+    },
+    {
+      "id": " 37",
+      "name": "Gurgav 3",
+      "City": "Gurgaon",
+      "cityid": 14
+    },
+    {
+      "id": " 38",
+      "name": "Ajmer 1",
+      "City": "Ajmer",
+      "cityid": 28
+    },
+    {
+      "id": " 39",
+      "name": "Dindori",
+      "City": "Nashik",
+      "cityid": 1
+    },
+    {
+      "id": " 40",
+      "name": "Collage Road",
+      "City": "Nashik",
+      "cityid": 1
+    },
+    {
+      "id": " 41",
+      "name": "Kashi 1",
+      "City": "Kashi",
+      "cityid": 23
+    },
+    {
+      "id": " 42",
+      "name": "Gaya 1",
+      "City": "Gaya",
+      "cityid": 24
+    },
+    {
+      "id": " 43",
+      "name": "Gaya 2",
+      "City": "Gaya",
+      "cityid": 24
+    },
+    {
+      "id": " 2",
+      "name": "mahakal 2",
+      "City": "Ujjain",
+      "cityid": 3
+    },
+    {
+      "id": " 45",
+      "name": "Gaziabad",
+      "City": "Gaziabad",
+      "cityid": 15
+    },
+    {
+      "id": " 46",
+      "name": "Gaziabad 2",
+      "City": "Gaziabad",
+      "cityid": 15
+    }
+  ]
+}
